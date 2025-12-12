@@ -1,0 +1,109 @@
+.miss{
+    margin-left: 600px;
+}
+.lip{
+    margin-left: 30px;
+    
+}
+.mim{
+    margin-left: 20px;
+}
+.button1{
+    margin-left: 20px;
+    color: aliceblue;
+    background-color: #7C4EE4;
+    border-radius: 9px;
+    border: none;
+}
+.lup{
+    margin-top: 40px;
+    
+}
+.lsp{
+    display: flex;
+    background-color: #7C4EE4;
+    margin-top: 30px;
+}
+.para1{
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.heading{
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.para2{
+    margin-left: 50px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.button2{
+    background-color: aliceblue;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: none;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.image5{
+    margin-left: 600px;
+    height: 300px;
+    width: 300px;
+    margin-top: -350px;
+    margin-bottom: 30px;
+}
+.image6{
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+.hesd{
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+.para6{
+    margin-left: 600px;
+    margin-top: -400px;
+    color: black;
+}
+h4{
+    margin-top: -399px;
+    margin-left: 600px;
+}
+.para7{
+    margin-left: 600px;
+}
+.btn-read{
+    border: 1px solid #7C4EE4;
+    border-radius: 8px;
+    color: #7C4EE4;
+    padding: 5px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.mini{
+    margin-top: 60px;
+}
+
+}
+.card{
+    margin-top: 0px;
+}
+.title{
+    margin-top: 10px;
+}
+.sing{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+
+
